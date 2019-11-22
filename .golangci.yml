@@ -1,7 +1,7 @@
 service:
   project-path: github.com/thepkg/awsl
   analyzed-paths:
-    - events/...
+    - ./
   golangci-lint-version: 1.12.x
   prepare:
     - go mod download

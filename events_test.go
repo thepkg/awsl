@@ -1,4 +1,4 @@
-package events
+package awsl
 
 import (
 	"encoding/base64"

@@ -1,4 +1,4 @@
-package events
+package awsl
 
 import (
 	"github.com/aws/aws-lambda-go/events"
