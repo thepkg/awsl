@@ -1,6 +1,8 @@
 awsl (AWS Lambda)
 -
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/thepkg/awsl)](https://goreportcard.com/report/github.com/thepkg/awsl)
+
 Package `awsl` provides helpful functions to work with AWS Lambda.
 
 ## Installation
