@@ -1,3 +1,4 @@
+package awsl
 /*
 
 Package https://github.com/thepkg/awsl provides helpful functions to work with AWS Lambda.
@@ -17,4 +18,3 @@ Package https://github.com/thepkg/awsl provides helpful functions to work with A
 	}
 
 */
-package awsl
