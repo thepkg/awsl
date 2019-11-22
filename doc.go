@@ -1,7 +1,7 @@
-package awsl
 /*
+Package awsl provides helpful functions to work with AWS Lambda.
 
-Package https://github.com/thepkg/awsl provides helpful functions to work with AWS Lambda.
+	https://github.com/thepkg/awsl
 
 * **FromDynamoDBMap** - converts data from AWS Lambda Event for DynamoDB to regular map
 (from `map[string]events.DynamoDBAttributeValue` to `map[string]interface{}`):
@@ -18,3 +18,4 @@ Package https://github.com/thepkg/awsl provides helpful functions to work with A
 	}
 
 */
+package awsl
