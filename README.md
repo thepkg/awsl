@@ -27,7 +27,7 @@ func main() {
 
 func Handler(event events.DynamoDBEvent) {
 	for _, record := range event.Records {
-		rec := FromDynamoDBMap(record.Change.NewImage)
+		rec := awsl.FromDynamoDBMap(record.Change.NewImage)
 		// rec contains map[string]interface{} so it's easier to work with data!
 	}
 }
