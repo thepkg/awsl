@@ -7,6 +7,5 @@ updates:
       interval: weekly
       day: thursday
       time: "07:00"
-      timezone: "Europe/Kyiv"
     labels:
       - dependencies
