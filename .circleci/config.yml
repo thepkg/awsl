@@ -3,7 +3,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: cn007b/go:1.19-alpine
+      - image: cn007b/go:1.13
 
     working_directory: /go/src/github.com/thepkg/awsl
 
