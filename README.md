@@ -6,7 +6,7 @@ awsl (AWS Lambda)
 [![Go Report Card](https://goreportcard.com/badge/github.com/thepkg/awsl)](https://goreportcard.com/report/github.com/thepkg/awsl)
 [![Coverage Status](https://coveralls.io/repos/github/thepkg/awsl/badge.svg?branch=master)](https://coveralls.io/github/thepkg/awsl?branch=master)
 [![GoDoc](https://godoc.org/github.com/thepkg/awsl?status.svg)](https://godoc.org/github.com/thepkg/awsl)
-[![DependaBot](https://img.shields.io/badge/dependabot-enabled-informational)](https://github.com/thepkg/awsl)
+[![Dependency Review](https://github.com/thepkg/awsl/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/thepkg/awsl/actions/workflows/dependency-review.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
 Package `awsl` provides helpful functions to work with AWS Lambda.
